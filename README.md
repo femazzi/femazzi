@@ -2,7 +2,7 @@
 
 ## 🌟 Apresentação
 
-My name's Felipe Mazzi, I'm a **FullStack** Developer!
+My name's Felipe Mazzi, I'm a **FullStack** Developer
 Actually, I'm studying at SENAI São Paulo!
 
 ---
