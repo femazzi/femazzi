@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  My name's Felipe Mazzi, I'm a <strong>FullStack</strong>.<br>
-  developer, actually I'm studying at SENAI São Paulo!
+  My name's Felipe Mazzi, I'm a <strong>FullStack</strong> developer<br>
+  actually I'm studying at SENAI São Paulo!
 </p>
 
 <p align="left">
-  🦄 Frameworks:
+  🦄 Frameworks: <br>
    <img alt="Mazzi-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <img alt="Mazzi-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img alt="Mazzi-ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -38,4 +38,13 @@
   <a href="https://instagram.com/fmazzii_" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
+
+
+
+
+
+
+
+
+## Eai! Eu sou o Felipe Mazzi, um dev fullstack, mas com um pequeno afeto em LUA!
 
