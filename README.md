@@ -1,4 +1,6 @@
+<center>
 ![Ilustração de um computador](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+</center>
 
 ## 🌟 Apresentação
 
