@@ -67,4 +67,6 @@
 
 ---
 
- :: ![Snake-Gif](https://github.com/femazzi/femazzi/blob/output/github-snake-dark.svg)::
+<div align="center">
+  <img src="https://github.com/femazzi/femazzi/blob/output/github-snake-dark.svg" alt="Snake">
+</div>
