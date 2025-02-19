@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>🌟 About Me:</h3>
-  My name's Felipe Mazzi, I'm a **FullStack** Developer! <br>
+  My name's Felipe Mazzi, I'm a <strong>FullStack</strong> Developer! <br>
   Actually, I'm studying at SENAI São Paulo!
 </div>
 
