@@ -1,14 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
 
-## 🌟 About Me:
-
-My name's Felipe Mazzi, I'm a **FullStack** Developer! <br>
-Actually, I'm studying at SENAI São Paulo!
+<div align="center">
+  ## 🌟 About Me:
+  My name's Felipe Mazzi, I'm a **FullStack** Developer! <br>
+  Actually, I'm studying at SENAI São Paulo!
+</div>
 
 ---
 
-## 🦄 Frameworks:
 <div align="center">
+  ## 🛠️ Frameworks:
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -27,8 +28,8 @@ Actually, I'm studying at SENAI São Paulo!
 
 ---
 
-## 💼 Tools:
 <div align="center">
+  ## 💼 Tools:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -41,8 +42,8 @@ Actually, I'm studying at SENAI São Paulo!
 
 ---
 
-## ⚡ Stats:
 <div align="center">
+  ## ⚡ Stats:
   <img width=390 height=195 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=femazzi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 height=195 src="https://github-readme-stats-salesp07.vercel.app/api?username=femazzi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -51,9 +52,8 @@ Actually, I'm studying at SENAI São Paulo!
 
 ---
 
-## 💌 Contact Me!!
-
 <div align="center">
+  ## 💌 Contact Me!!
   <a href="mailto:felipe.mazzi@hotmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -67,4 +67,6 @@ Actually, I'm studying at SENAI São Paulo!
 
 ---
 
-![Snake-Gif](https://github.com/femazzi/femazzi/blob/output/github-snake-dark.svg)
+<div align="center">
+  ![Snake-Gif](https://github.com/femazzi/femazzi/blob/output/github-snake-dark.svg)
+</div>
