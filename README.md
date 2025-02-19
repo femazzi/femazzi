@@ -3,6 +3,7 @@
 <p align="left"> 
   My name's Felipe Mazzi, I'm a <strong>FullStack</strong> developer<br>
   actually I'm studying at SENAI São Paulo!
+
 </p>
 
 <p align="left">
@@ -24,11 +25,18 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Tools: <br>
+  <img alt="Mazzi-VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
+  <img alt="Mazzi-Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img alt="Mazzi-GCloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img alt="Mazzi-Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img alt="Mazzi-Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img alt="Mazzi-Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
+  <img alt="Mazzi-Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo!! ⤵️
 </p>
 
 <p align="left">
@@ -38,13 +46,3 @@
   <a href="https://instagram.com/fmazzii_" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
-
-
-
-
-
-
-
-
-## Eai! Eu sou o Felipe Mazzi, um dev fullstack, mas com um pequeno afeto em LUA!
-
