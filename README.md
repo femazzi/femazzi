@@ -39,14 +39,14 @@ Actually, I'm studying at SENAI São Paulo!
 
 ## 💌 Contact Me!!
 
-![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.mazzi@hotmail.com)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mazzi-54b250305)
-![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fmazzii_)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.mazzi@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mazzi-54b250305)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fmazzii_)
 
 ---
 
 ## ⚡ Stats:
-![card](https://github-readme-stats.vercel.app/api?username=femazzi&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=femazzi&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
