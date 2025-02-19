@@ -5,7 +5,7 @@
 Meu nome é Felipe Mazzi, sou desenvolvedor **FullStack**  
 Atualmente, estou estudando no SENAI São Paulo!
 
----
+
 
 ## 🦄 Frameworks:
 ![Mazzi-Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,7 +23,7 @@ Atualmente, estou estudando no SENAI São Paulo!
 ![Mazzi-Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Mazzi-Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+
 
 ## 💼 Tools:
 ![Mazzi-VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -34,7 +34,7 @@ Atualmente, estou estudando no SENAI São Paulo!
 ![Mazzi-Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![Mazzi-Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
----
+
 
 ## 💌 Entre em contato comigo!!
 
