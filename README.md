@@ -48,8 +48,9 @@ Actually, I'm studying at SENAI São Paulo!
 ## ⚡ Stats:
 
 <div align="center">
+  [![card](https://github-readme-stats.vercel.app/api?username=femazzi&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-
---
+---
 
 ![Snake-Gif](https://github.com/femazzi/femazzi/blob/output/github-snake-dark.svg)
