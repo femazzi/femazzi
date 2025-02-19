@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white" />
 </div>
 
 ---
@@ -70,5 +71,5 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/femazzi/femazzi/blob/output/github-snake-dark.svg" alt="Snake">
+  <img src="https://github.com/femazzi/femazzi/blob/output/github-snake-dark.svg" alt="Snake" />
 </div>
