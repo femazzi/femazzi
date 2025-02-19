@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
 
 <div align="center">
-  ## 🌟 About Me:
+  <h3>🌟 About Me:</h3>
   My name's Felipe Mazzi, I'm a **FullStack** Developer! <br>
   Actually, I'm studying at SENAI São Paulo!
 </div>
@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-  ## 💼 Tools:
+  <h3>💼 Tools:</h3>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -43,7 +43,7 @@
 ---
 
 <div align="center">
-  ## ⚡ Stats:
+  <h3>⚡ Stats:</h3>
   <img width=390 height=195 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=femazzi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 height=195 src="https://github-readme-stats-salesp07.vercel.app/api?username=femazzi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -53,7 +53,7 @@
 ---
 
 <div align="center">
-  ## 💌 Contact Me!!
+  <h3>💌 Contact Me!!</h3>
   <a href="mailto:felipe.mazzi@hotmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
