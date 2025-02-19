@@ -43,5 +43,13 @@ Actually, I'm studying at SENAI São Paulo!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mazzi-54b250305)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fmazzii_)
 
+---
+
+## ⚡ Stats:
+
+<div align="center">
+
+
+--
 
 ![Snake-Gif](https://github.com/femazzi/femazzi/blob/output/github-snake-dark.svg)
