@@ -2,8 +2,8 @@
 
 ## 🌟 Apresentação
 
-Meu nome é Felipe Mazzi, sou desenvolvedor **FullStack**  
-Atualmente, estou estudando no SENAI São Paulo!
+My name's Felipe Mazzi, I'm a **FullStack** Developer!
+Actually, I'm studying at SENAI São Paulo!
 
 ---
 
@@ -37,7 +37,7 @@ Atualmente, estou estudando no SENAI São Paulo!
 
 ---
 
-## 💌 Entre em contato comigo!!
+## 💌 Contact Me!!
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.mazzi@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mazzi-54b250305)
